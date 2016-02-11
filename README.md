@@ -21,7 +21,7 @@ Spree Configuration
 Add the extension to your Gemfile:
 
 ```ruby
-gem 'spree_tax_cloud', github: 'spree-contrib/spree_tax_cloud', branch: 'master'
+gem 'spree_tax_cloud', github: 'theotherzach/spree_tax_cloud', branch: 'master'
 ```
 
 And add it to your bundle:
